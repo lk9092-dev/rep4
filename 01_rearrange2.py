@@ -5,4 +5,5 @@ def rearrange_name(name):
 	if result==None:
 		return result
 	return "{} {}".format(result[2], result[1])
+print("ok")o
 
